@@ -4,7 +4,7 @@
 자기소개
 
 ## 2주차
-관심주제 아티클 발표
+- [Decentralized finance (DeFi)](https://ethereum.org/en/defi/) - 김종서님
 
 ## 3주차
 관심주제 아티클 발표
