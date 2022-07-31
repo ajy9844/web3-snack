@@ -8,6 +8,7 @@
 - [클레이튼](https://ko.docs.klaytn.foundation/) - 송영준님
 - [Membership NFTs](https://mirror.xyz/nati.eth/) - 이예지님
 - [Unopened](https://unopnd.medium.com/) - 박소선님
+  - [내가 처음 산 NFT가 사기였다니,,,](https://maily.so/sosunnyproject/posts/19d0147c)
 
 ## 3주차
 관심주제 아티클 발표
