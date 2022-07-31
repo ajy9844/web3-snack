@@ -7,6 +7,7 @@
 - [Decentralized finance (DeFi)](https://ethereum.org/en/defi/) - 김종서님
 - [클레이튼](https://ko.docs.klaytn.foundation/) - 송영준님
 - [Membership NFTs](https://mirror.xyz/nati.eth/) - 이예지님
+- [Unopened](https://unopnd.medium.com/) - 박소선님
 
 ## 3주차
 관심주제 아티클 발표
