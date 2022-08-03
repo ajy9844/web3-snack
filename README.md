@@ -14,6 +14,7 @@
 관심주제 아티클 발표
 - [Community DAOs](https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4) - 안지영님
 - [Introduction to Web3](https://ethereum.org/en/web3/) - 장래영님
+- [Token Design for Serious People](https://jumpcrypto.com/token-design-for-serious-people/) - 
 
 ## 4주차
 
