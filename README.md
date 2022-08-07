@@ -6,7 +6,9 @@
 ## 2주차
 - [Decentralized finance (DeFi)](https://ethereum.org/en/defi/) - 김종서님
 - [클레이튼](https://ko.docs.klaytn.foundation/) - 송영준님
+  - [발표자료](https://github.com/web3snack/snack/blob/main/files/klaytn.pdf)
 - [Membership NFTs](https://mirror.xyz/nati.eth/) - 이예지님
+  - [발표자료](https://github.com/web3snack/snack/blob/main/files/membership_NFT.pdf)
 - [Unopened](https://unopnd.medium.com/) - 박소선님
   - [내가 처음 산 NFT가 사기였다니,,,](https://maily.so/sosunnyproject/posts/19d0147c)
 
