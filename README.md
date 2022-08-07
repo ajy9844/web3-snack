@@ -14,7 +14,7 @@
 
 ## 3주차
 관심주제 아티클 발표
-- [Community DAOs](https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4) - 안지영님
+- [Community DAOs](https://www.notion.so/Community-DAOs-ec8175a80520415a9b4a3157f55df575) - 안지영님
 - [Introduction to Web3](https://ethereum.org/en/web3/) - 장래영님
   - [Web to Web 2.0 to Web3](https://www.notion.so/comcom/Web-to-Web-2-0-to-Web3-e3b4a516daa041bd8df0082e9573ad15)
 - [Token Design for Serious People](https://jumpcrypto.com/token-design-for-serious-people/) - 이재훈님
