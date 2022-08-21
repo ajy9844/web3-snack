@@ -26,6 +26,6 @@
 - [L1 Research and Development 프로젝트](https://github.com/web3snack/snack/blob/main/files/StatesDAO_FW2_JuwonLee.pdf) - 이주원님
 
 ## 5주차
-- 솔라나 해커톤 참가 공유
-- Alchemy 1강 [How to Develop an NFT Smart Contract (ERC721)](https://docs.alchemy.com/docs/1-how-to-develop-an-nft-smart-contract-erc721-with-alchemy)
+- 솔라나 해커톤 참가 공유 - [Flying Bird](https://flyingbird.gg/)
+- Alchemy 1강 - [How to Develop an NFT Smart Contract (ERC721)](https://docs.alchemy.com/docs/1-how-to-develop-an-nft-smart-contract-erc721-with-alchemy)
 
