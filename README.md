@@ -1,7 +1,7 @@
 # snack
 
 ## 1주차
-자기소개
+- 자기소개
 
 ## 2주차
 - [Decentralized finance (DeFi)](https://ethereum.org/en/defi/) - 김종서님
@@ -22,7 +22,8 @@
 
 ## 4주차
 - 프로젝트 ideation 및 팀빌딩
-- [Up-road 프로젝트 발표자료]()
+- [Up-road 프로젝트](https://github.com/web3snack/snack/blob/main/files/StatesDAO%20PPD.pdf) - 송영준님, 김종서님, 박소선님, 안지영님, 이예지님, 이재훈님
+- [L1 Research and Development 프로젝트](https://github.com/web3snack/snack/blob/main/files/StatesDAO_FW2_JuwonLee.pdf) - 이주원님
 
 ## 5주차
 - 솔라나 해커톤 참가 공유
