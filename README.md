@@ -21,7 +21,10 @@
 - [Token Design for Serious People](https://jumpcrypto.com/token-design-for-serious-people/) - 이재훈님
 
 ## 4주차
+- 프로젝트 ideation 및 팀빌딩
+- [Up-road 프로젝트 발표자료]()
 
 ## 5주차
-프로젝트 계획 발표
+- 솔라나 해커톤 참가 공유
+- Alchemy 1강 [How to Develop an NFT Smart Contract (ERC721)](https://docs.alchemy.com/docs/1-how-to-develop-an-nft-smart-contract-erc721-with-alchemy)
 
