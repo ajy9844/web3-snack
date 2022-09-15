@@ -36,7 +36,7 @@
 - Alchemy 3강 - [How to Make NFTs with On-Chain Metadata - Hardhat and JavaScript](https://docs.alchemy.com/docs/how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript)
 
 ## 8주차 
-- 개인 데일리 리서치 결과물 - 이주원님 
+- 최근 개인 데일리 리서치 결과물 문서 공유 - 이주원님 
   - Custodial vs Non-Custodial Wallet: https://twitter.com/juwonleedev/status/1566424059511861248?s=20&t=gbmD_UTClvGV9d9SGQJQpw
   - Liquidity Pool and LP Token: https://twitter.com/juwonleedev/status/1567143577196834816?s=20&t=gbmD_UTClvGV9d9SGQJQpw
   - Ethereum Merge에 대한 오해 바로 잡기: https://twitter.com/juwonleedev/status/1567482688529125379?s=20&t=gbmD_UTClvGV9d9SGQJQpw
