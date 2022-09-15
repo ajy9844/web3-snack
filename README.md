@@ -29,3 +29,16 @@
 - 솔라나 해커톤 참가 공유 - [Flying Bird](https://flyingbird.gg/)
 - Alchemy 1강 - [How to Develop an NFT Smart Contract (ERC721)](https://docs.alchemy.com/docs/1-how-to-develop-an-nft-smart-contract-erc721-with-alchemy)
 
+## 6주차 
+- Alchemy 2강 - [How to Build "Buy Me a Coffee" DeFi dapp] (https://docs.alchemy.com/docs/how-to-build-buy-me-a-coffee-defi-dapp)
+
+## 7주차 
+- Alchemy 3강 - [How to Make NFTs with On-Chain Metadata - Hardhat and JavaScript](https://docs.alchemy.com/docs/how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript)
+
+## 8주차 
+- 개인 데일리 리서치 결과물 - 이주원님 
+  - Custodial vs Non-Custodial Wallet: https://twitter.com/juwonleedev/status/1566424059511861248?s=20&t=gbmD_UTClvGV9d9SGQJQpw
+  - Liquidity Pool and LP Token: https://twitter.com/juwonleedev/status/1567143577196834816?s=20&t=gbmD_UTClvGV9d9SGQJQpw
+  - Ethereum Merge에 대한 오해 바로 잡기: https://twitter.com/juwonleedev/status/1567482688529125379?s=20&t=gbmD_UTClvGV9d9SGQJQpw
+  - DeFi의 APR과 APY란 무엇일까?: https://twitter.com/juwonleedev/status/1569171972357226496?s=20&t=gbmD_UTClvGV9d9SGQJQpw
+- Alchemy 4강 - [How to Create an NFT Gallery](https://docs.alchemy.com/docs/how-to-create-an-nft-gallery)
